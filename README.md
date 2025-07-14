@@ -1,3 +1,2 @@
-# CV
-My Curriculum vitae website !!<br>
+This is a Simple Potfolio website
 :)
