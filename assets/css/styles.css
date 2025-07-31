@@ -341,7 +341,7 @@ img{
 }
 
 .home__button-movil{
-  display: inline-block;
+  display: inline-block; 
   border: 2px solid var(--text-color);
   color: var(--title-color);
   padding: 1rem 2rem;
